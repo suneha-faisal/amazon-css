@@ -1,0 +1,58 @@
+@media (min-width: 320px) and (max-width: 425px){
+
+    .box{
+        width: 98%;
+    }
+    .hero-section{
+        height: 170px;
+        margin-left: 10px;
+    }
+
+    .search-input{
+        width: 80%;
+    }
+   *{
+    font-size: 8px;
+    
+   }
+
+   .nav-cart{
+    font-size: 8px;
+   }
+
+   .nav-cart i{
+    font-size: 16px;
+   }
+
+
+
+  .logo{
+    width: 55px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 13px;
+  }
+
+  .nav-search{
+    width: 65%;
+    
+  }
+
+  .search-select{
+    padding-right: 10px;
+  }
+  .navbar{
+        gap: 10px;
+        margin-left: 10px;
+    }
+
+    /**nav-signin span,**/
+    .nav-second{
+        margin-left: 8px;
+    }
+
+    .panel{
+        margin-left: 10px;
+    }
+ 
+}

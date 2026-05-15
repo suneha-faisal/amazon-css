@@ -1,0 +1,43 @@
+@media  (min-width: 425px) and (max-width: 768px) {
+    .hero-section{
+      height: 265px;
+      margin-left: 10px;
+    }
+
+    .logo{
+        height: 25px;
+        width: 70px;
+        margin-left: 18px;
+    }
+
+    *{
+        font-size: 12px;
+    }
+
+    .search-input{
+        width: 80%;
+    }
+
+    .nav-cart i {
+      font-size: 17px;
+    }
+
+   .nav-search{
+    width: 45%;
+    height: 30px;
+   }
+
+   .navbar{
+        gap: 10px;
+        margin-left: 10px;
+    }
+    .panel{
+        margin-left: 10px;
+    }
+
+    .box{
+        width: 50%;
+    }
+
+
+}
